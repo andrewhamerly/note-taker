@@ -26,7 +26,7 @@ Link to deployed application:
 ## License
 ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)<br />
 [License Guide](https://opensource.org/licenses/MIT)<br />
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Contributing
 Please enter a new issue in the GitHub repo. Thanks!
 ## Tests
